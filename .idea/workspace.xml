@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12273cd9-40aa-4942-9509-81cc14391bd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bvUHWuGVhVOHNiNhwU0lgdffJk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="soundproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12273cd9-40aa-4942-9509-81cc14391bd8" name="Default Changelist" comment="" />
+      <created>1589511973663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589511973663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2529" y="405" key="#Notifications" timestamp="1589610094703">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2529" y="405" key="#Notifications/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589610094703" />
+    <state x="2546" y="354" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589864134767">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2546" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589864134767" />
+    <state x="2449" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589594161219">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2449" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589594161219" />
+    <state x="865" y="284" key="FileChooserDialogImpl" timestamp="1590551480941">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="865" y="284" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1590551480941" />
+    <state width="1205" height="259" key="GridCell.Tab.0.bottom" timestamp="1589864118518">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1352" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465914" />
+    <state width="1205" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589846012666" />
+    <state width="1205" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589864118518" />
+    <state width="1205" height="259" key="GridCell.Tab.0.center" timestamp="1589864118518">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1352" height="309" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465914" />
+    <state width="1205" height="259" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589846012666" />
+    <state width="1205" height="259" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589864118518" />
+    <state width="1205" height="259" key="GridCell.Tab.0.left" timestamp="1589864118518">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1352" height="309" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465914" />
+    <state width="1205" height="259" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589846012665" />
+    <state width="1205" height="259" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589864118518" />
+    <state width="1205" height="259" key="GridCell.Tab.0.right" timestamp="1589864118518">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1352" height="309" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465914" />
+    <state width="1205" height="259" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589846012666" />
+    <state width="1205" height="259" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589864118518" />
+    <state width="1205" height="275" key="GridCell.Tab.1.bottom" timestamp="1589845844808">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1352" height="309" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465914" />
+    <state width="1205" height="275" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845844808" />
+    <state width="1205" height="275" key="GridCell.Tab.1.center" timestamp="1589845844808">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1352" height="309" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465914" />
+    <state width="1205" height="275" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845844808" />
+    <state width="1205" height="275" key="GridCell.Tab.1.left" timestamp="1589845844808">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1352" height="309" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465914" />
+    <state width="1205" height="275" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845844808" />
+    <state width="1205" height="275" key="GridCell.Tab.1.right" timestamp="1589845844808">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1352" height="309" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465914" />
+    <state width="1205" height="275" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845844808" />
+    <state x="1989" y="606" width="578" height="526" key="GridCell.Tab.2.bottom" timestamp="1589845844809">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="597" height="606" key="GridCell.Tab.2.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465911" />
+    <state x="1989" y="606" width="578" height="526" key="GridCell.Tab.2.bottom/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845844809" />
+    <state x="1989" y="606" width="578" height="526" key="GridCell.Tab.2.center" timestamp="1589845844809">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="597" height="606" key="GridCell.Tab.2.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465910" />
+    <state x="1989" y="606" width="578" height="526" key="GridCell.Tab.2.center/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845844809" />
+    <state x="1989" y="606" width="578" height="526" key="GridCell.Tab.2.left" timestamp="1589845844809">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="597" height="606" key="GridCell.Tab.2.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465914" />
+    <state x="1989" y="606" width="578" height="526" key="GridCell.Tab.2.left/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845844809" />
+    <state x="1989" y="606" width="578" height="526" key="GridCell.Tab.2.right" timestamp="1589845844809">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="597" height="606" key="GridCell.Tab.2.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465910" />
+    <state x="1989" y="606" width="578" height="526" key="GridCell.Tab.2.right/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845844809" />
+    <state x="2813" y="554" width="578" height="526" key="GridCell.Tab.3.bottom" timestamp="1589662228818">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="597" height="606" key="GridCell.Tab.3.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465888" />
+    <state x="2813" y="554" width="578" height="526" key="GridCell.Tab.3.bottom/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589662228818" />
+    <state x="2813" y="554" width="578" height="526" key="GridCell.Tab.3.center" timestamp="1589662228818">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="597" height="606" key="GridCell.Tab.3.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465888" />
+    <state x="2813" y="554" width="578" height="526" key="GridCell.Tab.3.center/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589662228818" />
+    <state x="2813" y="554" width="578" height="526" key="GridCell.Tab.3.left" timestamp="1589662228818">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="597" height="606" key="GridCell.Tab.3.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465888" />
+    <state x="2813" y="554" width="578" height="526" key="GridCell.Tab.3.left/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589662228818" />
+    <state x="2813" y="554" width="578" height="526" key="GridCell.Tab.3.right" timestamp="1589662228818">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="597" height="606" key="GridCell.Tab.3.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590465888" />
+    <state x="2813" y="554" width="578" height="526" key="GridCell.Tab.3.right/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589662228818" />
+    <state x="2366" y="184" key="SettingsEditor" timestamp="1589599547956">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589582457275" />
+    <state x="2366" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589599547956" />
+    <state x="3191" y="554" width="594" height="594" key="dock-window-1" timestamp="1589845756697">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="613" height="674" key="dock-window-1/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589589821656" />
+    <state x="3191" y="554" width="594" height="594" key="dock-window-1/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845756697" />
+    <state x="1955" y="30" width="594" height="594" key="dock-window-2" timestamp="1589845756697">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="613" height="674" key="dock-window-2/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590470454" />
+    <state x="1955" y="30" width="594" height="594" key="dock-window-2/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845756697" />
+    <state x="2068" y="46" width="594" height="594" key="dock-window-3" timestamp="1589845756697">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="95" width="613" height="674" key="dock-window-3/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589590470454" />
+    <state x="2068" y="46" width="594" height="594" key="dock-window-3/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589845756697" />
+    <state x="1327" y="375" width="594" height="594" key="dock-window-4" timestamp="1589864031312">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="71" y="352" width="613" height="674" key="dock-window-4/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589527718961" />
+    <state x="1946" y="699" width="594" height="594" key="dock-window-4/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589846119279" />
+    <state x="1327" y="375" width="594" height="594" key="dock-window-4/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589864031312" />
+    <state x="3191" y="554" width="594" height="594" key="dock-window-5" timestamp="1589803991856">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="112" y="955" width="613" height="674" key="dock-window-5/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1589527718961" />
+    <state x="3191" y="554" width="594" height="594" key="dock-window-5/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589803991856" />
+    <state x="3191" y="554" width="594" height="594" key="dock-window-6" timestamp="1589803991856">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="3191" y="554" width="594" height="594" key="dock-window-6/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589803991856" />
+    <state x="3191" y="554" width="594" height="594" key="dock-window-7" timestamp="1589803991856">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="3191" y="554" width="594" height="594" key="dock-window-7/0.0.1920.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1589803991856" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="cnt/len(fftavg)" language="Python" />
+        <watch expression="(cnt/len(fftavg)*100) " language="Python" />
+        <watch expression="errrate(fftavg[i],fft4.fftdata[i])" language="Python" />
+        <watch expression="fftavg[i]" language="Python" />
+        <watch expression="fft4.fftdata[i]" language="Python" />
+        <watch expression="errrate(fftavg[i],fft4.fftdata[i])" language="Python" />
+        <watch expression="fftavg[0]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
